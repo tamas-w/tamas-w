@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @tamas-w
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-# Hello There :wave:
 
-<!---
-tamas-w/tamas-w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+#### I'm Tamas, a recently graduated junior developer from Budapest.
+
+
+## I would prefer to work as a full-stack dev, but I also can settle with a frontend or backend position :slightly_smiling_face:
+
+## Technologies which I'm familiar with/have experience :computer:
+- React (hooks, redux, context, axios, etc.)
+- NodeJS 
+- SQL / NoSQL (mysql, Mongo)
+
+### If you're interested about more tools and technology what I'm using please check out my projects
+## [link](https://github.com/tamas-w/){:target="_blank"}
