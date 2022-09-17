@@ -1,8 +1,8 @@
 ## Hello There :wave:
 &nbsp;
-### I'm Tamas, a recently graduated junior developer from Budapest.
+### I'm Tamas, currently a javascript developer on ServiceNow platform from Budapest.
 &nbsp;
-### I would prefer to work as a full-stack dev, but I also can settle with a frontend or backend position :slightly_smiling_face:
+### I prefer to work on projects as a full-stack dev, but I also can settle with a frontend or backend position :slightly_smiling_face:
 &nbsp;
 ### Technologies which I'm familiar with/have experience: :computer:
 - React (hooks, redux, context, etc.)
